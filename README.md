@@ -1,6 +1,6 @@
 # Bytes.co Alpine htop
 
-A no-frills Alpine htop container. Currently based on Alpine 3.13. Small and secure. Helpful when trying to find what's stealing all your memory or CPU.
+A no-frills Alpine htop container. Currently based on Alpine 3.15.0. Small and secure. Helpful when trying to find what's stealing all your memory or CPU.
 
 ## Example Usage
 ```bash
